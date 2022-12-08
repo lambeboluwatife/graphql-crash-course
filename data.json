@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Lambe Boluwatife",
+      "email": "boluwatifelambe@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "3",
+      "name": "Adetona Temiloluwa",
+      "email": "tonatemiloluwa@gmail.com",
+      "age": 22
+    },
+    {
+      "name": "Adetona kanyinsola",
+      "email": "folarera@gmail.com",
+      "age": 19,
+      "id": "P0ClLF3"
+    }
+  ]
+}
